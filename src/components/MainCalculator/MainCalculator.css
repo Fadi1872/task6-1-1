@@ -1,0 +1,17 @@
+html{
+    font-size: 30px;
+}
+.square{
+    width: 100px;
+    height: 100px;
+}
+td:hover{
+    cursor: pointer;
+}
+.numberHover{
+    opacity: 0.5;
+    transition: 0.5s;
+}
+.numberHover:hover{
+    opacity: 1;
+}
